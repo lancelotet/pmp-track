@@ -4,7 +4,7 @@ An interactive, web-based progress tracker to help you prepare for the Project M
 
 ## 🚀 Live Demo
 
-You can access the live version of this tracker on GitHub Pages. The URL will be in the "About" section of this repository once deployed.
+You can access the live version of this tracker here: [https://lancelotet.github.io/pmp-track/](https://lancelotet.github.io/pmp-track/)
 
 ## ✨ Features
 
