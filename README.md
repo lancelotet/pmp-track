@@ -1,7 +1,5 @@
 # PMP Certification Progress Tracker
 
-**[Go to the Tracker](tracker.html)**
-
 An interactive, web-based progress tracker to help you prepare for the Project Management Professional (PMP)® certification exam. This tool allows you to check off tasks as you master them and visually track your overall progress.
 
 ## 🚀 Live Demo
